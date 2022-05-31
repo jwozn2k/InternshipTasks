@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <card>
+        <name>Lonnie</name>
+        <surname>Collins</surname>
+        <phone>14503758742  </phone>
+    </card>
+    <card>
+        <name>Gordon</name>
+        <surname>Thompson</surname>
+        <phone>922970267410</phone>
+    </card>
+    <card>
+        <name>Vanessa</name>
+        <surname>Shaw</surname>
+        <phone>567324560123</phone>
+    </card>
+    <card>
+        <name>Aaron</name>
+        <surname>James</surname>
+        <phone>876315751796</phone>
+    </card>
+</root>
