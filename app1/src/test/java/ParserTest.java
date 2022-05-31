@@ -61,31 +61,5 @@ public class ParserTest {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
-
-
     }
-
-
-
-
-
-    @Test
-    void parseTest() {
-//        try {
-//            ObjectMapper mapper = new XmlMapper();
-//            InputStream inputStream = new FileInputStream("output.xml");
-//            TypeReference<List<Person>> typeReference = new TypeReference<List<Person>>() {};
-//            List<Person> persons = mapper.readValue(inputStream, typeReference);
-////            mapper.
-//
-//            Parser parser = new Parser("src/main/resources/example.csv");
-//            assertTrue(parser.parseFromCSV());
-//
-//        } catch(IOException ex) {
-//            ex.printStackTrace();
-//        }
-    }
-
-
 }
